@@ -1,0 +1,25 @@
+http://chals.f.cyberthon25.ctf.sg:40101/
+
+As you rush towards your next destination in your quest for treasure, you decide to go by train. The station is bustling with activity, a sea of faces moving in every direction. Amidst the crowd, a peculiar man in a sharp suit catches your eye. He exudes an aura of meme-infused mischief, and his presence feels almost surreal. With a sly grin, he beckons you closer...
+
+"Are you seekers of treasure and fortune? If so, shall we play a game?"
+
+Curiosity piqued, you agree, and he hands you a mysterious card with an illustration of a toilet bowl on it.
+
+Skibidi Card
+"Do you know how to play Brainrot Rumble?"
+"No?"
+"It's okay, let's play a couple of rounds and you'll get it."
+
+At first, the game seems utterly ridiculous to you. But over time, you can't help but notice that there may be more to this game than meets the eye.
+
+Is there a hidden treasure, a flag, waiting to be discovered within the madness? The line between reality and the game blurs, and you realize that this challenge is not just about winning but uncovering the secrets that lie in the game itself.
+
+Play the game here: Brainrot Rumble
+Note: Game has music
+
+IMPORTANT
+enclose flag with Cyberthon{}
+
+if you have trouble running the server, try doing:
+sudo apt install musl-tools musl-dev

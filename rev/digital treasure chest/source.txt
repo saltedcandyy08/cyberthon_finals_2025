@@ -1,0 +1,3 @@
+You've discovered a treasure chest. But this is not any treasure chest, it's a digital treasure chest! It's locked with a sophisticated security mechanism which requires a password, so your usual lockpicking shenanigans aren't going to help you out here.
+
+Can you reverse engineer the locking mechanism and find the correct password to unlock the treasure chest?
