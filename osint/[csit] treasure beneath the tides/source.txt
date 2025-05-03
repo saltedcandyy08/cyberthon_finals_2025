@@ -1,0 +1,9 @@
+Ahoy, seeker of secrets! Before you can claim my treasure, you must first answer this riddle: Who am I, the pirate who amassed a fortune greater than any other? My name is whispered in fear and respect across the seas, but to claim what's mine, you need to find out where she lies.
+
+Once you know who I am, the hunt for my lost treasure beneath the waves begins. It has been swallowed by the sea, hidden where only the most cunning may find it. The location is what you seek, but the clues are scattered for those clever enough to follow. Instructions are scattered among my pages, pay close attention—string up the strings together, counting the days won't lead you astray and the sum of the past may guide you to the truth. Not all riches are counted in gold, but in the right base, even the smallest details can change everything.
+
+Arr, with the clue in hand, seek ye the spot where me ship be sleepin’ beneath the waves! 🏴‍☠️
+
+Solve the mystery of my identity, follow the clues, and the lost treasure’s location will be yours to claim. Are you up for the challenge?
+
+Challenge flag format: Cyberthon{coordinate, coordinate} note the comma and the space between each. And it has 3 decimal spaces!
