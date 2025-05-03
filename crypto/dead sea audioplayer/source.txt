@@ -1,0 +1,7 @@
+You find a device in the sand, and it starts playing audio.
+
+"You found me, but the secret’s mine. There's no chance you'll break my design!"
+
+The device then taunts you with more weird poetry before running out of battery.
+
+Can you recover its secret?

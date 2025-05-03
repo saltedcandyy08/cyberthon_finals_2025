@@ -1,0 +1,3 @@
+We added some defenses to RSA. I mean, they said don’t roll your own crypto. but we did anyway. Hope it’s secure this time. Please tell us if you find any vulnerabilities.
+
+MD5 (dist.tar.xz) = 982b7f963fcc77156be7454c446b744f

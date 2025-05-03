@@ -1,0 +1,12 @@
+description
+NON STANDARD FLAG FORMAT!
+FORMAT IS ALL UPPERCASE
+CYBERTHON{REAL_FLAG_FORMAT_IS_LIKE_THIS}
+
+In this challenge, you're handed an encrypted file containing a novel straight out of England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Earth 🌏. Your mission? Decrypt it and uncover the flag, while perhaps enjoying the tale of adventures through hyperspace and battles against the dark side.
+
+HINT 1: Use English language frequency analysis to get a coarse solve.
+HINT 2: Partially solved output can constrain the PRIVATE_KEY search space.
+
+MD5 (CipherSnP.py) = d1b191f2c5993a3ea7735d7604faaeef
+MD5 (rbandgptwriteanovel.txt.enc) = 8127025119c8d2a1e2f2a50f65b66f1a

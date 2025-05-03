@@ -1,0 +1,3 @@
+With enough computing power, bruteforce is the solution to everything!
+
+nc chals.f.cyberthon25.ctf.sg 10101

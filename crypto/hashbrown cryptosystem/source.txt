@@ -1,0 +1,5 @@
+
+They call this encryption? I call it a joke. I bet you can crack this in no time.
+
+MD5 (hashbrown_corrupted.py) = d21868d487d9637b74c3597169f34551
+MD5 (hashbrown_flag.pbm.zip.enc) = 541782b4451b39386f33118eaf6362aa
