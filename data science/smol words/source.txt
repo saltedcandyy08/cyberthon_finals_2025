@@ -1,0 +1,20 @@
+Treasure maps are usually handwritten, and the shapes of the letters can vary greatly. The person who buried the treasure went one step further and tried to compress his written notes using a machine learning based compression technique. However, we only managed to recover the encoder_only_cpu.pt model and its accompanying run_encoder.py script to generate the compressed data given the handwritten examples found in the dataset/raw/word####.png.
+
+Help us decode the 5000 compressed word samples in the dataset/compressed/smol####.png. The first 100 examples are solved for you in the dataset/testcases.csv file.
+
+You will have to replace the '???' marks in dataset/testcases.csv with your predicted word for each smol####.png provided in the dataset/compressed/smol####.png. Do not modify the file in any other way.
+
+To do this you will need to somehow train a decoder model using the encoder_only_cpu.pt model to invert the encoding process.
+
+The structure of encoder_only_cpu.pt can be visualised using Netron.app as see in encoder_netron.png.
+
+The URL for the pyctfsglib.py grader is:
+GRADER_URL = random.choice([
+  "http://chals.f.cyberthon25.ctf.sg:60301/",
+  "http://chals.f.cyberthon25.ctf.sg:60302/"
+])
+
+MD5 (smolwords.tar.xz) = 84bb3c62136ba8de70968ffb18bb652f
+MD5 (dataset/testcases.csv) = c8ab42cdf41399bfc32fdbff56206d79
+MD5 (encoder_only_cpu.pt) = abfc53afa09c976bbfe8a9bc1eef1e13
+MD5 (run_encoder.py) = 4d20046f9b9f0633fdb604a34e92fbb0

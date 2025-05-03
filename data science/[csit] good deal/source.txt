@@ -1,0 +1,32 @@
+http://chals.f.cyberthon25.ctf.sg:60501/docs
+
+In today's world, it is sometime difficult to determine if a product being sold on sale is actually being sold at a discount.
+
+In this challenge, your task is to build a machine learning model that predicts laptop prices before discounts based on their specifications.
+
+You'll train a regression model using this data to estimate the true price of laptops.
+
+Your model will be used to evaluate if laptops sold during a sale are truly going for a cheaper rate, helping your users to find good deals.
+
+hint:
+Data columns:
+1. Country: USA or India
+2. Refurbished: 1 if laptop has been refurbished. 0 or blank if otherwise
+3. Year: Year of model release. 0 or blank if no info.
+4. Brand: Contains names of laptop manufacturers (e.g. Dell, Lenovo) and laptop resellers.
+5. Model: Laptop model name and/or serial number.
+6. Screen Size: In inches.
+7. CPU: Self-explanatory.
+8. Hard Disk: Self-explanatory.
+9. Ram: Self-explanatory
+10. OS: Operating System
+11. Graphics: Self-explanatory
+12. Color: Self-explanatory
+13. Special Features: Other unique selling points not listed in the other columns.
+
+
+General guidelines to tackle machine learning problems:
+1. Explore the data: What does each column contain?
+2. Clean the data: How to deal with missing values? Outliers? Inconsistent data format (e.g. km vs m)? Remove stopwords (words that add no value to analysis) or irrelevant columns.
+3. Feature Engineering: Can we engineer more meaningful features/columns? For example, is there too much info contained in the model column, can we break it down further?
+4. Create ML models and select the best: What models would work better with such non-linear data? How to encode the data such that it can be fed into the model (hint: consider one-hot encoding or label encoding where suitable)? How to compare which model is better?

@@ -1,0 +1,22 @@
+Treasure can be hard to find, but with some training, you can find it! Here we have developed a set of pattern matching tasks to help you train a machine learning model to recognize shapes. This will be useful for identifying interesting objects in the real world.
+
+There will be a total of 5000 images in the dataset, named like shape1337.png where this is the 1337th testcases. Your task is to predict the shape and color of the object in each of the images and fill it up in the provided shapes_test.csv.
+
+The submission template is shapes_test.csv, it contains the following columns:
+- testcase: filename of associated image
+- shape: predicted shape of object
+- color: predicted color of object
+
+The first 100 images have been solved for you. The rest of them contain '???' marks in the shape and color columns. You need to fill them up with your predictions.
+
+Valid classes for color are: brown, red, orange, yellow, green, blue, violet, grey, white
+Valid classes for shape are: ball, cube, can, cone
+
+
+The URL for the pyctfsglib.py grader is:
+GRADER_URL = random.choice([
+  "http://chals.f.cyberthon25.ctf.sg:60201/",
+  "http://chals.f.cyberthon25.ctf.sg:60202/"
+])
+
+MD5 (shapes.tar.xz) = c57118dc9e1a125049bc03c5c9e0b76b

@@ -1,0 +1,22 @@
+The Labubumania is both a boon and a bane for your company. Your patented treasure boxes are being sold at at all time high. The bad news? Many of them are defects.
+
+You're not sure why. Of course, it is expected that some of the products are defects, but this many? Unacceptable.
+
+All boxes pass visual inspection before shipment. But when they arrive at stores, many of the boxes appear damaged or torn, and the treasure inside chipped or broken.
+
+To counter this problem, you've recorded the past 25,000 shipments of treasure boxes and checked which ones were fine and which were defects with the sellers. All that's left to do is to find out *why* the defects occur.
+
+You are given a `sample-answer.toml` file that contains instructions on how to format your answer. The grader will assess how well your rules in your answer match the causes for the defects.
+
+The URL for the grader is http://chals.f.cyberthon25.ctf.sg:60401/grade. Send a POST request with your `answer.toml` file to that endpoint to grade. For example, using cURL:
+
+curl -X 'POST' \
+  'http://chals.f.cyberthon25.ctf.sg:60401/grade' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: multipart/form-data' \
+  -F 'token=YOUR_TOKEN_HERE' \
+  -F 'file=@answer.toml'
+
+The `detail` field in the response is your score (from 0 to 1) or an error if the format of `answer.toml` is not right.
+
+MD5 (data.csv.gz) = 1899ae84b1fc390baba53dc1720f6405

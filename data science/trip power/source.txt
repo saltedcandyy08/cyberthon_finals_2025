@@ -1,0 +1,18 @@
+To find treasure we need to go places. And since we drive a electric vehicle, we need to plan our route so we can charge it before we run out of power. We have a dataset of power usage that we have recorded in the past, this is listed in trippower_train.csv. We also have a list of trips that we are considering driving to find treasure, these are listed in trippower_test.csv.
+
+Both datasets contain the following columns: car_id, weight_in_kg, drag_coefficient, tire_psi, motor_efficiency, battery_efficiency, powertrain_efficiency, wheel_diameter_inch, regen_efficiency, average_speed_kph, elevation_change_m, temperature_C, wind_speed_kph, route_length_km, stops_per_hour, power_requirement_kW
+
+I hope these columns are self-explanatory. If not, please ask an LLM of your choice to explain it to you.
+
+We need you to predict the power required for each trip in trippower_test.csv so that we can make to the destination. Regression models taught in the Cyberthon training should be a good starting point.
+
+You will have to replace the '???' marks in trippower_test.csv with your predicted power_requirement_kW of the each rocket. Do not modify the file in any other way.
+
+The URL for the pyctfsglib.py grader is:
+GRADER_URL = random.choice([
+  "http://chals.f.cyberthon25.ctf.sg:60101/",
+  "http://chals.f.cyberthon25.ctf.sg:60102/"
+])
+
+MD5 (trippower_test.csv) = f844a0ea46293423ca0be5af2c7cdecb
+MD5 (trippower_train.csv) = 12d8ac98724d47d71d6cdf6732931193
