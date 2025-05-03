@@ -1,0 +1,9 @@
+http://chals.f.cyberthon25.ctf.sg:50141/
+
+Welcome to Ancient Atlas Archives, the most renowned map shop in town.
+
+As you step into the shop, a voice echoes from the back, "Ah, a seeker of maps, are you? We have charts leading to buried treasures, sunken ships, and even the secret cookie stash of the local bakery. If perusing maps in a quaint, old store isn't your style, we have a splendid website for your convenience."
+
+Your eyes are drawn to a dusty shelf marked "Secret Treasure Maps" with a single intriguing map placed on it. Curiosity piqued, you inquire, "What's that?" The voice responds, "Ah, that one is reserved exclusively for VIPs and our most loyal patrons. No touching!"
+
+Undeterred, you attempt to persuade the cartographer for just a tiny glimpse, but your efforts are in vain. Can you find a way to sneek a peak at details of the map?

@@ -1,0 +1,5 @@
+http://chals.f.cyberthon25.ctf.sg:50111/
+
+Ahoy there! Congratulations on your good work so far! You've toiled, you've plundered, you've raided - but when payday came, big_boss locked it all away in his "impenetrable vault".
+
+Enough is enough. It's time to take what's rightfully yours. Find a way past his defenses, crack the vault wide open, and claim your well-earned loot.

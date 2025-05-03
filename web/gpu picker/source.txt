@@ -1,0 +1,11 @@
+http://chals.f.cyberthon25.ctf.sg:50131/
+
+Welcome to GPUPicker, where framerates soar and wallets weep! Our cutting-edge comparison tool is here to help you navigate the treacherous waters of graphics card shopping. Whether you're looking to run Cyberpunk 2077 at 8K or just trying to make your spreadsheets look extra crisp, we've got you covered!
+
+Our database contains information on all the latest and greatest GPUs, including the mythical RGB 6090 - a card so powerful it hasn't even been released yet. It's designed with an all new architecture make all the other GPUs look like potatoes.
+
+We heard you're looking for treasure in the form of flags. Here's the deal:
+
+Do a penetration test of our platform, and if you can leak details (specifically the architecture name) of the RGB 6090, you'll get a flag!
+
+Sounds like a pretty sweet deal right?
