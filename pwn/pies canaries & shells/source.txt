@@ -1,0 +1,20 @@
+The sun was setting as you walked along the deserted beach, scanning the shore for anything unusual. The crashing waves seemed to whisper secrets, but none you could decipher. Just as you were about to call it a day, a figure emerged from the mist that had started to gather along the coast.
+
+"I hear you're seeking a prized shell that can get you the treasure you're looking for" the stranger said, his face partially obscured by a hood. His voice carried an unusual accent you couldn't quite place.
+
+You nodded cautiously, wondering how he knew of your quest.
+
+"The shell you seek is not like any other," he continued. "It has the power to command, to reveal treasures locked away from the average mortal. But finding it requires... unconventional knowledge."
+
+The stranger reached into his pocket and pulled out a small, folded piece of paper. "First, you need to know where the pie is." He handed you the slip of paper, which contained nothing but a strange address written in hexadecimal.
+
+Before you could ask what a pastry had to do with finding a seashell, he produced a second slip of paper. "And knowing the canary will help you avoid the traps."
+
+You took the second slip of paper, which had another cryptic number scrawled upon it. You stared at the two slips, thoroughly confused about how a pie and some random bird would help you find a magical shell.
+
+"But how will these—" you began to ask, looking up. The beach was empty. The stranger had vanished as mysteriously as he'd appeared, leaving only footprints that disappeared at the water's edge.
+
+Interact with the server at:
+chals.f.cyberthon25.ctf.sg:30111
+
+Note: This is a tale of memory manipulation and binary exploitation, cloaked in the metaphor of a treasure hunt. No actual pastries or birds were involved in the making of this challenge.

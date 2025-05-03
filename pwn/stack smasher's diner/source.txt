@@ -1,0 +1,17 @@
+Welcome to Stack Smasher's Diner, where we serve memory violations with a side of undefined behavior! Why not take a break from your flag hunting and enjoy some of our delectable cuisine? Who knows? you might even get served a flag here!🍽️
+
+Our world-renowned establishment features Chef Malloc, a culinary genius with exactly 6 years of experience. While he occasionally serves some rather questionable dishes, he's still the guardian of our menu system and a very popular chef.
+
+Today's Menu Offerings:
+🍲 Stack Overflow Stew - A heap of vegetables that might just overflow your appetite
+🍗 Null Pointer Nuggets - Served with our famous segfault sauce (dereference at your own risk!)
+🍝 Memory Leak Meatballs - Free() range certified, but they might leave a trace behind
+🍔 Buffer Overflow Burger - Extra large portions that don't respect boundaries
+🍜 Race Condition Ramen - Time-sensitive noodles that may or may not be ready when you are
+🍖 Undefined Behavior BBQ - Compile with caution, results may vary
+For the adventurous diner, we offer our special Omakase experience where Chef Malloc will prepare something based on your dietary restrictions.
+
+Rumor has it there's a secret menu item that only the most skilled hackers can access. Something about a "Cyberthon Flag" dish?
+
+Interact with the server at:
+chals.f.cyberthon25.ctf.sg:30121
