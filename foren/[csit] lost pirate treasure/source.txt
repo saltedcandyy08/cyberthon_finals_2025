@@ -1,0 +1,15 @@
+🏴‍☠️ The Lost Pirate's Treasure 🏴‍☠️
+
+Ahoy, matey! Welcome to the high seas of cybersecurity. Our story begins with Captain Blackbeard, a notorious pirate who recently discovered a map leading to a legendary treasure. However, the map is encrypted and requires special navigation tools to decode.
+
+Captain Blackbeard, being a modern pirate, decided to download the latest version of "PirateNav Pro" - a professional navigation suite that promises to help him locate the treasure. The software was downloaded from a reputable maritime navigation website.
+
+However, after installing the software, Captain Blackbeard noticed some strange behavior. The navigation tool seems to be communicating with an unknown server, and the treasure map remains encrypted. He suspects foul play!
+
+Your mission, should you choose to accept it, is to investigate what has happened and retrieve the flag!
+
+Good luck, and may the winds be at your back! 🏴‍☠️
+
+nc chals.f.cyberthon25.ctf.sg 20101
+
+Note: you might encounter malware while solving this challenge, please only run it in a containerized environment.

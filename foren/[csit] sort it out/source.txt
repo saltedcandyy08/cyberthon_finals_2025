@@ -1,0 +1,10 @@
+A rival pirate crew is known to use a launchpad to remotely access their Windows Server vault.
+One of your capable mates managed to sneak in to retrieve an account to login to the launchpad.
+
+Your challenge: Login to the launchpad and comb the file system for forensics artefacts that the rivals left behind.
+Bring those artefacts back for analysis, and you will be able to _see_ what they were doing in the vault and get your flag.
+
+Rules: Exploits are not required, do not run any of them.
+Denial of serivce attacks are not allowed.
+
+http://sort-it-out-1.chals.f.cyberthon25.ctf.sg/

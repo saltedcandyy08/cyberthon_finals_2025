@@ -1,0 +1,3 @@
+Got some USB taps from a suspect. Can you find out what they were doing?
+
+MD5 (taps.pcapng) = 831d8bb21809d75918651a0ae577c9c1
